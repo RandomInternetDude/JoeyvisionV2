@@ -1,5 +1,17 @@
-.bg-light{
+.bg-dark{
     background-color: transparent !important;
+    
+}
+
+h2{
+    color:whitesmoke;
+}
+h2:hover{
+    color:wheat;
+}
+
+.brand{
+    margin-left: 2rem;
 }
 
 .navbar{

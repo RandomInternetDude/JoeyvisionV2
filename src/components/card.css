@@ -1,0 +1,22 @@
+.card {
+    width:28rem;
+    height:28rem;
+    position: relative !important;
+    background-color: black !important;
+    opacity: 0.7;
+    border: 1px solid white !important;
+    border-radius: 19px;
+    color:white;
+    margin-left: 10rem;
+    
+    
+}
+
+.card-body {
+    flex: 12 1 auto;
+    padding: 7.25rem;
+}
+
+.center{
+    text-align: center;
+}
